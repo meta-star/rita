@@ -2,7 +2,6 @@
 # coding=UTF-8
 
 import sys
-import numpy
 
 def main(msgs):
     result = readCommandLine(msgs)
