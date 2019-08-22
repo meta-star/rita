@@ -1,3 +1,3 @@
-from ritaCore.BasicMath.exec import Calculation
+from .exec import Calculation
 
 __all__ = ["Calculation"]

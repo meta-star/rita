@@ -1,5 +1,18 @@
 #!/usr/bin/env python3
 # coding=UTF-8
+"""
+    Rita
+
+        a natural language calculator
+
+            https://project.starinc.xyz/rl
+
+                            - A Star Inc. Research Project
+        ===
+
+    :license GPL v3.0
+    :copyright 2019 Star Inc.(https://starinc.xyz) All Rights Reserved.
+"""
 
 import sys
 from ritaCore import ritaCore
