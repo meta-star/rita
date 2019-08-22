@@ -2,10 +2,11 @@
 # coding=UTF-8
 
 import sys
+from ritaCore import ritaCore
 
 def main(msgs):
     result = readCommandLine(msgs)
-    print(result)
+    print(ritaCore().cal(result))
 
 def readCommandLine(msgs):
     replymsg = ""
